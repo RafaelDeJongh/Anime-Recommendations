@@ -1,0 +1,74 @@
+{
+	Personal:{
+		Section:"Personal Top 10",
+		Top:[
+		{
+			animeTitle:"Gosick",
+			animeRank:1
+		},{
+			animeTitle:"Toradora!",
+			animeRank:2
+		},{
+			animeTitle:"Ginga Tetsudou 999",
+			animeRank:3
+		},{
+			animeTitle:"JoJo's Bizarre Adventure 2012",
+			animeRank:4
+		},{
+			animeTitle:"ef: A Tale of Memories.",
+			animeRank:5
+		},{
+			animeTitle:"Steins;Gate",
+			animeRank:6
+		},{
+			animeTitle:"Clannad",
+			animeRank:7
+		},{
+			animeTitle:"Detroit Metal City",
+			animeRank:8
+		},{
+			animeTitle:"Tengen Toppa Gurren Lagann",
+			animeRank:9
+		},{
+			animeTitle:"Hellsing Ultimate",
+			animeRank:10
+		}
+		]
+	},
+	SpaceOpera:{
+		Section:"Space Opera Top 10",
+		Top:[
+		{
+			animeTitle:"Ginga Tetsudou 999",
+			animeRank:1
+		},{
+			animeTitle:"Ginga Eiyuu Densetsu",
+			animeRank:2
+		},{
+			animeTitle:"Interstella 5555",
+			animeRank:3
+		},{
+			animeTitle:"Uchuu Senkan Yamato",
+			animeRank:4
+		},{
+			animeTitle:"Uchuu Kaizoku Captain Harlock",
+			animeRank:5
+		},{
+			animeTitle:"Ginga Tetsudou Monogatari",
+			animeRank:6
+		},{
+			animeTitle:"Sidonia no Kishi",
+			animeRank:7
+		},{
+			animeTitle:"Heroic Age",
+			animeRank:8
+		},{
+			animeTitle:"Space Dandy",
+			animeRank:9
+		},{
+			animeTitle:"Mouretsu Pirates",
+			animeRank:10
+		}
+		]
+	}
+}
