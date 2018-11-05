@@ -1,74 +1,107 @@
 {
-	Personal:{
-		Section:"Personal Top 10",
-		Top:[
+	"Personal":{
+		"Section":"Personal Top 10",
+		"Anime":[
 		{
-			animeTitle:"Gosick",
-			animeRank:1
+			"animeTitle":"Gosick",
+			"animeRank":1
 		},{
-			animeTitle:"Toradora!",
-			animeRank:2
+			"animeTitle":"Toradora!",
+			"animeRank":2
 		},{
-			animeTitle:"Ginga Tetsudou 999",
-			animeRank:3
+			"animeTitle":"Ginga Tetsudou 999",
+			"animeRank":3
 		},{
-			animeTitle:"JoJo's Bizarre Adventure 2012",
-			animeRank:4
+			"animeTitle":"JoJo's Bizarre Adventure 2012",
+			"animeRank":4
 		},{
-			animeTitle:"ef: A Tale of Memories.",
-			animeRank:5
+			"animeTitle":"ef: A Tale of Memories.",
+			"animeRank":5
 		},{
-			animeTitle:"Steins;Gate",
-			animeRank:6
+			"animeTitle":"Steins;Gate",
+			"animeRank":6
 		},{
-			animeTitle:"Clannad",
-			animeRank:7
+			"animeTitle":"Clannad",
+			"animeRank":7
 		},{
-			animeTitle:"Detroit Metal City",
-			animeRank:8
+			"animeTitle":"Detroit Metal City",
+			"animeRank":8
 		},{
-			animeTitle:"Tengen Toppa Gurren Lagann",
-			animeRank:9
+			"animeTitle":"Tengen Toppa Gurren Lagann",
+			"animeRank":9
 		},{
-			animeTitle:"Hellsing Ultimate",
-			animeRank:10
+			"animeTitle":"Hellsing Ultimate",
+			"animeRank":10
 		}
 		]
 	},
-	SpaceOpera:{
-		Section:"Space Opera Top 10",
-		Top:[
+	"SpaceOpera":{
+		"Section":"Space Opera Top 10",
+		"Anime":[
 		{
-			animeTitle:"Ginga Tetsudou 999",
-			animeRank:1
+			"animeTitle":"Ginga Tetsudou 999",
+			"animeRank":1
 		},{
-			animeTitle:"Ginga Eiyuu Densetsu",
-			animeRank:2
+			"animeTitle":"Ginga Eiyuu Densetsu",
+			"animeRank":2
 		},{
-			animeTitle:"Interstella 5555",
-			animeRank:3
+			"animeTitle":"Interstella 5555",
+			"animeRank":3
 		},{
-			animeTitle:"Uchuu Senkan Yamato",
-			animeRank:4
+			"animeTitle":"Uchuu Senkan Yamato",
+			"animeRank":4
 		},{
-			animeTitle:"Uchuu Kaizoku Captain Harlock",
-			animeRank:5
+			"animeTitle":"Uchuu Kaizoku Captain Harlock",
+			"animeRank":5
 		},{
-			animeTitle:"Ginga Tetsudou Monogatari",
-			animeRank:6
+			"animeTitle":"Ginga Tetsudou Monogatari",
+			"animeRank":6
 		},{
-			animeTitle:"Sidonia no Kishi",
-			animeRank:7
+			"animeTitle":"Sidonia no Kishi",
+			"animeRank":7
 		},{
-			animeTitle:"Heroic Age",
-			animeRank:8
+			"animeTitle":"Heroic Age",
+			"animeRank":8
 		},{
-			animeTitle:"Space Dandy",
-			animeRank:9
+			"animeTitle":"Space Dandy",
+			"animeRank":9
 		},{
-			animeTitle:"Mouretsu Pirates",
-			animeRank:10
+			"animeTitle":"Mouretsu Pirates",
+			"animeRank":10
 		}
+		]
+	},
+	"Action":{
+		"Section":"Genre: Action",
+		"Anime":[
+			{"animeTitle":"Akame ga Kiru!"},
+			{"animeTitle":"Ao no Exorcist"},
+			{"animeTitle":"Cowboy Bebop"},
+			{"animeTitle":"Darker Than Black"},
+			{"animeTitle":"Deadman Wonderland"},
+			{"animeTitle":"Fullmetal Alchemist: Brotherhood"},
+			{"animeTitle":"Hellsing Ultimate"},
+			{"animeTitle":"Inuyashiki"},
+			{"animeTitle":"JoJo's Bizarre Adventure TV"},
+			{"animeTitle":"Karas"},
+			{"animeTitle":"Kiseijuu: Sei no Kakuritsu"},
+			{"animeTitle":"Koutetsujou no Kabaneri"},
+			{"animeTitle":"Mirai Nikki"},
+			{"animeTitle":"Mob Psycho 100"},
+			{"animeTitle":"Nanatsu no Taizai"},
+			{"animeTitle":"One Punch Man"},
+			{"animeTitle":"Psycho-Pass 1"},
+			{"animeTitle":"Rainbow: Nisha Rokubou no Shichinin"},
+			{"animeTitle":"Re:Creators"},
+			{"animeTitle":"Samurai Champloo"},
+			{"animeTitle":"Shakugan no Shana"},
+			{"animeTitle":"Shijou Saikyou no Deshi Kenichi 50"},
+			{"animeTitle":"Speed Grapher"},
+			{"animeTitle":"Tiger & Bunny"},
+			{"animeTitle":"To Aru No Index"},
+			{"animeTitle":"Toaru Kagaku no Railgun"},
+			{"animeTitle":"Trigun"},
+			{"animeTitle":"Youjo Senki TV"}
 		]
 	}
 }

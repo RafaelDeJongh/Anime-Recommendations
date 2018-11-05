@@ -53,6 +53,12 @@ footer{
 	width:100%;
 	height:auto;
 }
+/*Media Queries
+--------------*/
+@media screen and (max-width:1200px){main{grid-template-columns:repeat(4,1fr)}}
+@media screen and (max-width:700px){main{grid-template-columns:repeat(3,1fr)}}
+@media screen and (max-width:500px){main{grid-template-columns:repeat(2,1fr)}}
+@media screen and (max-width:400px){main{grid-template-columns:1fr}}
 /*Links
 -------------*/
 a,a:visited{
