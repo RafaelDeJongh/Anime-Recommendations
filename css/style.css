@@ -1,0 +1,77 @@
+@charset "utf-8";
+body{
+	width:100%;
+	min-height:100%;
+	background-color:#111;
+	color:#eee;
+}
+/*Header
+-------------*/
+header{
+	width:100%;
+	height:auto;
+	border-bottom:1px solid #900;
+	background:#17171a;
+	text-align:center;
+	padding:10px 0;
+}
+header h2{font-size:1.4em}
+/*Content
+-------------*/
+main{
+	position:relative;
+	margin:auto;
+	width:100%;
+	height:100%;
+	display:grid;
+	grid-template-columns:repeat(5,1fr);
+}
+figure{transition:opacity .3s ease}
+figure:hover{opacity:.8}
+figure,figure img{
+	position:relative;
+	width:100%;
+	height:100%;
+}
+figure img{
+	object-fit:cover;
+	z-index:5;
+}
+figure figcaption{
+	position:absolute;
+	z-index:10;
+	bottom:0;
+	width:100%;
+	text-align:center;
+	background:rgba(0,0,0,.6);
+	padding:8px 0;
+}
+/*Footer
+-------------*/
+footer{
+	text-align:center;
+	width:100%;
+	height:auto;
+}
+/*Links
+-------------*/
+a,a:visited{
+	color:#eee;
+	text-decoration:none;
+	transition:all .3s ease;
+	border:none;
+}
+a:active, a:hover{
+	color:#fff;
+}
+/*Scrollbar
+-------------*/
+::-webkit-scrollbar{width:12px;height:12px;background-color:#1A1A1A}
+::-webkit-scrollbar-corner{background-color:#0e0e0e}
+::-webkit-scrollbar-track{background-color:#121212}
+::-webkit-scrollbar-thumb{background:#900}
+::-webkit-scrollbar:horizontal{height:12px}
+/*Selection
+-------------*/
+::selection{color:#fff;background-color:#900}
+::-moz-selection{color:#fff;background-color:#900}
