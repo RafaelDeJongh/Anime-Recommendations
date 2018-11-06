@@ -9,7 +9,7 @@ Last Revision: 31/10/2018)
 1. Gosick
 2. Toradora!
 3. Ginga Tetsudou 999
-4. JoJo's Bizarre Adventure
+4. JoJo's Bizarre Adventure 2012
 5. ef: A Tale of Memories.
 6. Steins;Gate
 7. Clannad
@@ -42,7 +42,7 @@ ___
 - Fullmetal Alchemist: Brotherhood
 - Hellsing Ultimate
 - Inuyashiki
-- JoJo's Bizarre Adventure
+- JoJo's Bizarre Adventure 2012
 - Karas
 - Kiseijuu: Sei no Kakuritsu
 - Koutetsujou no Kabaneri
