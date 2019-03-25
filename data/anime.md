@@ -1,7 +1,7 @@
 [comment]: # (Anime recommendation list created by Rafaël De Jongh
 MAL: https://myanimelist.net/profile/RafaelDeJongh
 Portfolio: https://www.rafaeldejongh.com
-Last Revision: 31/10/2018)
+Last Revision: 21/03/2019)
 # Rafaël De Jongh's Anime Recommendations
 
 ## Personal Top 10 Series
@@ -9,7 +9,7 @@ Last Revision: 31/10/2018)
 1. Gosick
 2. Toradora!
 3. Ginga Tetsudou 999
-4. JoJo's Bizarre Adventure 2012
+4. JoJo's Bizarre Adventure
 5. ef: A Tale of Memories.
 6. Steins;Gate
 7. Clannad
@@ -22,7 +22,7 @@ Last Revision: 31/10/2018)
 1. Ginga Tetsudou 999
 2. Ginga Eiyuu Densetsu
 3. Interstella 5555
-4. Uchuu Senkan Yamato
+4. Uchuu Senkan Yamato 
 5. Uchuu Kaizoku Captain Harlock
 6. Ginga Tetsudou Monogatari
 7. Sidonia no Kishi
@@ -38,11 +38,12 @@ ___
 - Ao no Exorcist
 - Cowboy Bebop
 - Darker Than Black
-- Deadman Wonderland
+- Deadman Wonderland 
+- Double Decker! Doug & Kirill
 - Fullmetal Alchemist: Brotherhood
 - Hellsing Ultimate
-- Inuyashiki
-- JoJo's Bizarre Adventure 2012
+- Inuyashiki 
+- JoJo's Bizarre Adventure
 - Karas
 - Kiseijuu: Sei no Kakuritsu
 - Koutetsujou no Kabaneri
@@ -77,11 +78,11 @@ ___
 - Gugure! Kokkuri-san
 - Gyagu Manga Biyori
 - Hayate No Gotoku
-- Hinamatsuri
+- Hinamatsuri 
 - Ike! Ina-chuu Takkyuubu
 - Jinrui wa Suitai Shimashita
 - Katte ni Kaizou
-- Kobayashi-san Chi no Maid Dragon
+- Kobayashi-san Chi no Maid Dragon 
 - Kore wa Zombie Desu ka?
 - Level E
 - Mudazumo Naki Kaikaku: The Legend of Koizumi
@@ -135,7 +136,7 @@ ___
 - Soredemo Sekai wa Utsukushii
 - Sukitte Ii na yo.
 - Toradora
-- Tsuki ga Kirei
+- Tsuki ga Kirei 
 - Violet Evergarden
 - Wotaku ni Koi wa Muzukashii
  
@@ -146,7 +147,7 @@ ___
 - Amanchu!
 - Aria the animation
 - Bananya
-- Binchou-Tan
+- Binchou-Tan 
 - Chihayafuru
 - Chuunibyou demo Koi ga Shitai!
 - Denpa Onna to Seishun Otoko
@@ -186,7 +187,7 @@ ___
 - Dantalian no Shoka
 - Death Parade
 - Gankutsuou
-- Gate: Jieitai Kanochi nite, Kaku Tatakaeri
+- Gate: Jieitai Kanochi nite, Kaku Tatakaeri 
 - Gosick
 - Kami-sama no Memochou
 - Kokoro Connect
@@ -202,9 +203,12 @@ ___
 - Natsume Yuujinchou
 - Re:Zero kara Hajimeru Isekai Seikatsu
 - Rozen Maiden
+- Ryuu no Haisha
+- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Steins;Gate
 - Subete ga F ni Naru: The Perfect Insider
 - Suzumiya Haruhi no Yuuutsu
+- Tensei shitara Slime Datta Ken
 - Princess Principal
 - Tasogare Otome x Amnesia
 - Zero no Tsukaima
@@ -215,7 +219,7 @@ ___
 - Death Note
 - Gantz
 - Gyo
-- Higurashi no Naku Koro ni
+- Higurashi no Naku Koro ni 
 - Jigoku Shoujo
 - Kiseijuu: Sei no Kakuritsu
 - Mirai Nikki
@@ -240,10 +244,11 @@ ___
 - Kenzen Robo Daimidaler
 - Sidonia no Kishi
 - Suisei no Gargantia
-- Tengen Toppa Gurren Lagann
+- Tengen Toppa Gurren Lagann 
 - The Big O
 - Mobile Suit Gundam
 - Planet With
+- SSSS.Gridman
 - Uchuu Kaizoku Captain Harlock
 - Uchuu Senkan Yamato (2199)
  
@@ -255,10 +260,10 @@ ___
 - Gankutsuou
 - Higurashi no Naku Koro ni
 - Jigoku Shoujo
-- Mirai Nikki
+- Mirai Nikki 
 - Mousou Dairinin
 - Shigofumi
-- Shigurui
+- Shigurui 
 - Umineko no Naku Koro ni
 - Zankyou no Terror
 - Zetsuen no Tempest
@@ -278,13 +283,13 @@ ___
 - 3-gatsu no Lion
 - Chihayafuru
 - F-Zero GP Legend
-- Future GPX Cyber Formula
+- Future GPX Cyber Formula 
 - Hajime no Ippo
 - Hikaru no Go
 - Initial D
-- Mudazumo Naki Kaikaku: The Legend of Koizumi
+- Mudazumo Naki Kaikaku: The Legend of Koizumi 
 - Ro-Kyu-Bu!
-- Saki
+- Saki 
  
 ## Harem & Ecchi
  
@@ -311,21 +316,23 @@ ___
  
 - Sakasama no Patema
 - Kimi no Na wa.
-- Hoshi wo Ou Kodomo
+- Hoshi wo Ou Kodomo 
 - Redline
-- Interstella5555: The 5tory of The 5ecret 5tar 5ystem
+- Interstella5555: The 5tory of The 5ecret 5tar 5ystem 
 - Toki wo Kakeru Shoujo
 - Kara no Kyoukai
+- Sayonara no Asa ni Yakusoku no Hana wo Kazarou
 - Gin'iro no Kami no Agito
 - Shisha no Teikoku
 - Kono Sekai no Katasumi ni
 - Koe no Katachi
 - Paprika
+- Kimi no Suizou wo Tabetai
 - Mary to Majo no Hana
 - Majokko Shimai no Yoyo to Nene
-- Summer Wars
+- Summer Wars 
 - Eve no Jikan
-- Tokyo Godfathers
+- Tokyo Godfathers 
 - Momo e no Tegami
 - Nerawareta Gakuen
 - Ghost in the Shell
