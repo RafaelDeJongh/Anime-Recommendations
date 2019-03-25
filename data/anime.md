@@ -75,7 +75,7 @@ ___
 - Bokusatsu Tenshi Dokuro-chan <!-- 357 | 10/13210l.jpg -->
 - Detroit Metal City <!-- 3702 | 3/9853l.jpg -->
 - Great Teacher Onizuka <!-- 245 | 13/11460l.jpg -->
-- Gugure! Kokkuri-san Specials <!-- 27945 | 4/67735l.jpg -->
+- Gugure! Kokkuri-san <!-- 23251 | 6/65665l.jpg -->
 - Hayate no Gotoku! <!-- 2026 | 7/73932l.jpg -->
 - Hinamatsuri <!-- 36296 | 1580/93526l.jpg -->
 - Ike! Ina-chuu Takkyuubu <!-- 914 | 10/25459l.jpg -->
