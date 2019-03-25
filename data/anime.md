@@ -9,7 +9,7 @@ Last Revision: 21/03/2019)
 1. Gosick <!-- 8425 | 11/27906l.jpg -->
 2. Toradora! <!-- 4224 | 13/22128l.jpg -->
 3. Ginga Tetsudou 999 <!-- 1491 | 7/27801l.jpg -->
-4. JoJo's Bizarre Adventure <!-- 665 | 8/53147l.jpg -->
+4. JoJo's Bizarre Adventure <!-- 14719 | 3/40409.jpg -->
 5. Steins;Gate <!-- 9253 | 5/73199l.jpg -->
 6. ef: A Tale of Memories. <!-- 2924 | 11/50411l.jpg -->
 7. Clannad <!-- 2167 | 1804/95033l.jpg -->
@@ -35,34 +35,34 @@ ___
 ## Action
  
 - Akame ga Kill! <!-- 22199 | 1429/95946l.jpg -->
-- Ao no Exorcist
-- Cowboy Bebop
-- Darker Than Black
-- Deadman Wonderland 
-- Double Decker! Doug & Kirill
-- Fullmetal Alchemist: Brotherhood
-- Hellsing Ultimate
-- Inuyashiki 
-- JoJo's Bizarre Adventure
-- Karas
-- Kiseijuu: Sei no Kakuritsu
-- Koutetsujou no Kabaneri
-- Mirai Nikki
-- Mob Psycho 100
-- Nanatsu no Taizai
-- One Punch Man
-- Psycho-Pass
-- Rainbow: Nisha Rokubou no Shichinin
-- Re:Creators
-- Samurai Champloo
-- Shakugan no Shana
-- Shijou Saikyou no Deshi Kenichi
-- Speed Grapher
-- Tiger & Bunny
-- To Aru No Index
-- Toaru Kagaku no Railgun
-- Trigun
-- Youjo Senki
+- Ao no Exorcist <!-- 9919 | 10/75195l.jpg -->
+- Cowboy Bebop <!-- 1 | 4/19644l.jpg -->
+- Darker than Black: Kuro no Keiyakusha <!-- 2025 | 5/19570l.jpg -->
+- Deadman Wonderland <!-- 6880 | 9/75299l.jpg -->
+- Double Decker! Doug & Kirill <!-- 37496 | 1299/95783l.jpg -->
+- Fullmetal Alchemist: Brotherhood <!-- 5114 | 1223/96541l.jpg -->
+- Hellsing Ultimate <!-- 777 | 6/7333.jpg -->
+- Inuyashiki <!-- 34542 | 7/88471l.jpg -->
+- JoJo's Bizarre Adventure <!-- 14719 | 3/40409.jpg -->
+- Karas <!-- 389 | 2/18521.jpg -->
+- Kiseijuu: Sei no Kakuritsu <!-- 22535 | 3/73178l.jpg -->
+- Koutetsujou no Kabaneri <!-- 28623 | 12/79164l.jpg -->
+- Mirai Nikki <!-- 10620 | 13/33465l.jpg -->
+- Mob Psycho 100 <!-- 32182 | 8/80356l.jpg -->
+- Nanatsu no Taizai <!-- 23755 | 8/65409l.jpg -->
+- One Punch Man <!-- 30276 | 12/76049l.jpg -->
+- Psycho-Pass <!-- 13601 | 5/43399l.jpg -->
+- Rainbow: Nisha Rokubou no Shichinin <!-- 6114 | 9/72697l.jpg -->
+- Re:Creators <!-- 34561 | 11/85469l.jpg -->
+- Samurai Champloo <!-- 205 | 11/29134l.jpg -->
+- Shakugan no Shana <!-- 355 | 8/21197l.jpg -->
+- Shijou Saikyou no Deshi Kenichi <!-- 1559 | 9/75515l.jpg -->
+- Speed Grapher <!-- 198 | 12/26128l.jpg -->
+- Tiger & Bunny <!-- 9941 | 13/29466l.jpg -->
+- Toaru Majutsu no Index <!-- 4654 | 2/75533l.jpg -->
+- Toaru Kagaku no Railgun <!-- 6213 | 8/53581l.jpg -->
+- Trigun <!-- 6 | 7/20310l.jpg -->
+- Youjo Senki <!-- 32615 | 5/82890l.jpg -->
  
 ## Comedy
  
