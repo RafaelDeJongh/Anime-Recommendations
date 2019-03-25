@@ -6,35 +6,35 @@ Last Revision: 21/03/2019)
 
 ## Personal Top 10 Series
  
-1. Gosick
-2. Toradora!
-3. Ginga Tetsudou 999
-4. JoJo's Bizarre Adventure
-5. ef: A Tale of Memories.
-6. Steins;Gate
-7. Clannad
-8. Detroit Metal City
-9. Tengen Toppa Gurren Lagann
-10. Hellsing Ultimate
+1. Gosick <!-- 8425 | 11/27906l.jpg -->
+2. Toradora! <!-- 4224 | 13/22128l.jpg -->
+3. Ginga Tetsudou 999 <!-- 1491 | 7/27801l.jpg -->
+4. JoJo's Bizarre Adventure <!-- 665 | 8/53147l.jpg -->
+5. Steins;Gate <!-- 9253 | 5/73199l.jpg -->
+6. ef: A Tale of Memories. <!-- 2924 | 11/50411l.jpg -->
+7. Clannad <!-- 2167 | 1804/95033l.jpg -->
+8. Detroit Metal City <!-- 3702 | 3/9853l.jpg -->
+9. Tengen Toppa Gurren Lagann <!-- 2001 | 4/5123l.jpg -->
+10. Hellsing Ultimate <!-- 777 | 6/7333l.jpg -->
  
 ## Personal Space Opera's Top 10 Franchises
  
-1. Ginga Tetsudou 999
-2. Ginga Eiyuu Densetsu
-3. Interstella 5555
-4. Uchuu Senkan Yamato 
-5. Uchuu Kaizoku Captain Harlock
-6. Ginga Tetsudou Monogatari
-7. Sidonia no Kishi
-8. Heroic Age
-9. Space Dandy
-10. Mouretsu Pirates
+1. Ginga Tetsudou 999 <!-- 1491 | 7/27801l.jpg -->
+2. Ginga Eiyuu Densetsu <!-- 820 | 13/13225l.jpg -->
+3. Interstella 5555 <!-- 731 | 5/82786l.jpg -->
+4. Uchuu Senkan Yamato <!-- 1650 | /1908/94946l.jpg --> 
+5. Uchuu Kaizoku Captain Harlock  <!-- 1000 | 1362/90305l.jpg -->
+6. Ginga Tetsudou Monogatari <!-- 2717 | 3/77281l.jpg -->
+7. Sidonia no Kishi <!-- 19775 | 12/53257l.jpg -->
+8. Heroic Age <!-- 2002 | 12/50435l.jpg -->
+9. Space Dandy <!-- 20057 | 4/56611l.jpg -->
+10. Mouretsu Pirates <!-- 8917 | 13/36247l.jpg -->
  
 ___
  
 ## Action
  
-- Akame ga Kill!
+- Akame ga Kill! <!-- 22199 | 1429/95946l.jpg -->
 - Ao no Exorcist
 - Cowboy Bebop
 - Darker Than Black
