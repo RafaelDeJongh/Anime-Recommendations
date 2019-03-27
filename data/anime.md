@@ -242,6 +242,7 @@ ___
 - Koukyoushihen Eureka Seven <!-- 237 | 12/34443l.jpg -->
 - Mobile Suit Gundam <!-- 80 | 5/88524l.jpg -->
 - Planet With <!-- 37578 | 1985/95103l.jpg -->
+- RErideD: Tokigoe no Derrida <!-- 35835 | 1481/95784l.jpg -->
 - SSSS.Gridman <!-- 35847 | 1973/95616l.jpg -->
 - Sidonia no Kishi <!-- 19775 | 12/53257l.jpg -->
 - Suisei no Gargantia <!-- 16524 | 11/48817l.jpg -->
