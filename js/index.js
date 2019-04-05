@@ -1,4 +1,4 @@
-let animeMD = "https://raw.githubusercontent.com/RafaelDeJongh/Anime-Recommendations/master/data/anime.md";
+let animeMD = "https://raw.githubusercontent.com/RafaelDeJongh/Anime-Recommendations/master/README.md";
 fetch(animeMD).then(res=>res.text()).then((data)=>{
 function regMatches(group){group||(group=1);
 	let matches=[],match,regex = /(?:- |\d\. )(.+?) <!-- ([^ ]+).{3}([^ ]+)/gm;
