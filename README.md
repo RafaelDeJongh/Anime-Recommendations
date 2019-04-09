@@ -1,7 +1,7 @@
 [comment]: # (Anime recommendation list created by Rafaël De Jongh
 MAL: https://myanimelist.net/profile/RafaelDeJongh
 Portfolio: https://www.rafaeldejongh.com
-Last Revision: 21/03/2019)
+Last Revision: 09/04/2019)
 # Rafaël De Jongh's Anime Recommendations
 
 ## Personal Top 10 Series
@@ -151,6 +151,7 @@ ___
 - Chihayafuru <!-- 10800 | 3/35749l.jpg -->
 - Chuunibyou demo Koi ga Shitai! Lite <!-- 15687 | 5/42655l.jpg -->
 - Denpa Onna to Seishun Otoko <!-- 9379 | 9/59497l.jpg -->
+- Doukyonin wa Hiza, Tokidoki, Atama no Ue. <!-- 38145 | 1634/97368.jpg -->
 - Hanamaru Youchien <!-- 6574 | 3/50395l.jpg -->
 - Hanasaku Iroha <!-- 9289 | 3/28967l.jpg -->
 - Hataraku Saibou <!-- 37141 | 1270/95221l.jpg -->
