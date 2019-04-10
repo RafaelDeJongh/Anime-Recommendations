@@ -1,7 +1,7 @@
 [comment]: # (Anime recommendation list created by Rafaël De Jongh
 MAL: https://myanimelist.net/profile/RafaelDeJongh
 Portfolio: https://www.rafaeldejongh.com
-Last Revision: 09/04/2019)
+Last Revision: 10/04/2019)
 # Rafaël De Jongh's Anime Recommendations
 
 ## Personal Top 10 Series
@@ -113,6 +113,7 @@ ___
 - ef: A Tale of Melodies. <!-- 4789 | 13/50519l.jpg -->
 - ef: A Tale of Memories. <!-- 2924 | 11/50411l.jpg -->
 - Golden Time <!-- 17895 | 12/52091l.jpg -->
+- Gotoubun no Hanayome <!-- 38101 | 1819/97947.jpg -->
 - Grisaia no Kajitsu <!-- 17729 | 10/73591l.jpg -->
 - Happy Sugar Life <!-- 37517 | 1086/91313l.jpg -->
 - Higashi no Eden <!-- 5630 | 9/15033l.jpg -->
