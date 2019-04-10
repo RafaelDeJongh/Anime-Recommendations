@@ -9,7 +9,7 @@ Last Revision: 10/04/2019)
 1. Gosick <!-- 8425 | 11/27906l.jpg -->
 2. Toradora! <!-- 4224 | 13/22128l.jpg -->
 3. Ginga Tetsudou 999 <!-- 1491 | 7/27801l.jpg -->
-4. JoJo's Bizarre Adventure <!-- 14719 | 3/40409.jpg -->
+4. JoJo's Bizarre Adventure <!-- 14719 | 3/40409l.jpg -->
 5. Steins;Gate <!-- 9253 | 5/73199l.jpg -->
 6. ef: A Tale of Memories. <!-- 2924 | 11/50411l.jpg -->
 7. Clannad <!-- 2167 | 1804/95033l.jpg -->
@@ -41,10 +41,10 @@ ___
 - Deadman Wonderland <!-- 6880 | 9/75299l.jpg -->
 - Double Decker! Doug & Kirill <!-- 37496 | 1299/95783l.jpg -->
 - Fullmetal Alchemist: Brotherhood <!-- 5114 | 1223/96541l.jpg -->
-- Hellsing Ultimate <!-- 777 | 6/7333.jpg -->
+- Hellsing Ultimate <!-- 777 | 6/7333l.jpg -->
 - Inuyashiki <!-- 34542 | 7/88471l.jpg -->
-- JoJo's Bizarre Adventure <!-- 14719 | 3/40409.jpg -->
-- Karas <!-- 389 | 2/18521.jpg -->
+- JoJo's Bizarre Adventure <!-- 14719 | 3/40409l.jpg -->
+- Karas <!-- 389 | 2/18521l.jpg -->
 - Kiseijuu: Sei no Kakuritsu <!-- 22535 | 3/73178l.jpg -->
 - Koutetsujou no Kabaneri <!-- 28623 | 12/79164l.jpg -->
 - Mirai Nikki <!-- 10620 | 13/33465l.jpg -->
@@ -113,7 +113,7 @@ ___
 - ef: A Tale of Melodies. <!-- 4789 | 13/50519l.jpg -->
 - ef: A Tale of Memories. <!-- 2924 | 11/50411l.jpg -->
 - Golden Time <!-- 17895 | 12/52091l.jpg -->
-- Gotoubun no Hanayome <!-- 38101 | 1819/97947.jpg -->
+- Gotoubun no Hanayome <!-- 38101 | 1819/97947l.jpg -->
 - Grisaia no Kajitsu <!-- 17729 | 10/73591l.jpg -->
 - Happy Sugar Life <!-- 37517 | 1086/91313l.jpg -->
 - Higashi no Eden <!-- 5630 | 9/15033l.jpg -->
@@ -152,7 +152,7 @@ ___
 - Chihayafuru <!-- 10800 | 3/35749l.jpg -->
 - Chuunibyou demo Koi ga Shitai! Lite <!-- 15687 | 5/42655l.jpg -->
 - Denpa Onna to Seishun Otoko <!-- 9379 | 9/59497l.jpg -->
-- Doukyonin wa Hiza, Tokidoki, Atama no Ue. <!-- 38145 | 1634/97368.jpg -->
+- Doukyonin wa Hiza, Tokidoki, Atama no Ue. <!-- 38145 | 1634/97368l.jpg -->
 - Hanamaru Youchien <!-- 6574 | 3/50395l.jpg -->
 - Hanasaku Iroha <!-- 9289 | 3/28967l.jpg -->
 - Hataraku Saibou <!-- 37141 | 1270/95221l.jpg -->
