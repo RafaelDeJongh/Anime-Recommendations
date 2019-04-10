@@ -150,7 +150,7 @@ ___
 - Bananya <!-- 32664 | 11/80200l.jpg -->
 - Binchou-tan <!-- 750 | 10/61143l.jpg -->
 - Chihayafuru <!-- 10800 | 3/35749l.jpg -->
-- Chuunibyou demo Koi ga Shitai! Lite <!-- 15687 | 5/42655l.jpg -->
+- Chuunibyou demo Koi ga Shitai! <!-- 14741 | 12/46931.jpg -->
 - Denpa Onna to Seishun Otoko <!-- 9379 | 9/59497l.jpg -->
 - Doukyonin wa Hiza, Tokidoki, Atama no Ue. <!-- 38145 | 1634/97368l.jpg -->
 - Hanamaru Youchien <!-- 6574 | 3/50395l.jpg -->
