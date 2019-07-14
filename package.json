@@ -1,0 +1,65 @@
+{
+  "name": "anime-recommendations",
+  "version": "1.0.0",
+  "description": "Rafaël De Jongh's Anime Recommendations",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app && gulp",
+    "build": "node app && gulp compile",
+    "compile": "node app && gulp compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelDeJongh/Anime-Recommendations.git"
+  },
+  "keywords": [
+    "anime",
+    "myanimelist",
+    "mal"
+  ],
+  "author": "Rafaël De Jongh & Yogensia",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/RafaelDeJongh/Anime-Recommendations/issues"
+  },
+  "homepage": "https://github.com/RafaelDeJongh/Anime-Recommendations#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "autoprefixer": "^9.6.1",
+    "babel-register": "^6.26.0",
+    "browser-sync": "^2.26.7",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-cli": "^2.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-hb": "^8.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-newer": "^1.4.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8",
+    "gulp-webp": "^4.0.1",
+    "hbs": "^4.0.4",
+    "request": "^2.88.0",
+    "sharp": "^0.22.1"
+  },
+  "dependencies": {},
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-title" content="Rafa&euml;l De Jongh">
+  <meta name="application-name" content="Rafa&euml;l De Jongh">
+  <meta name="msapplication-TileColor" content="#17171a">
+  <meta name="msapplication-TileImage" content="img/favicons/mstile-144x144.png">
+  <meta name="msapplication-config" content="img/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#17171a">
+  <meta property="og:title" content="Rafaël De Jongh's Anime Recommendations">
+  <meta property="og:site_name" content="Rafaël De Jongh's Anime Recommendations">
+  <meta property="og:url" content="https://rafaeldejongh-sites.ga/AnimeRecommendations/">
+  <meta property="og:description" content="Anime recommendation list created by Rafa&euml;l De Jongh">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="img/open-graph.jpg">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Overpass:700,900&display=swap">
+  <link rel="stylesheet" href="css/bundle.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="img/favicons/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
+  <link rel="manifest" href="img/favicons/site.webmanifest">
+  <link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#990000">
+  <link rel="shortcut icon" href="img/favicons/favicon.ico">
+  <title>Rafaël's Anime Recommendations</title>
+</head>
+
+<body>
+  <header>
+    <h2>Rafaël De Jongh's Anime Recommendations</h2>
+    <div class="button-group filter-button-group">
+      {{>categories}}
+    </div>
+    <div id="filter">
+      <input id="search" type="search" placeholder="Filter by title..." autocomplete="off" data-search>
+      <button id="search-clear" class="hidden" type="reset" title="Clear Filter">✖</button>
+    </div>
+  </header>
+  <main class="items">
+    {{>anime}}
+  </main>
+  <script src="js/bundle.js"></script>
+</body>
+
+</html>
