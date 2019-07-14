@@ -2,38 +2,39 @@
 MAL: https://myanimelist.net/profile/RafaelDeJongh
 Portfolio: https://www.rafaeldejongh.com
 Last Revision: 21/03/2019)
+
 # Rafaël De Jongh's Anime Recommendations
 
-## Personal Top 10 Series
- 
+## Top 10
+
 1. Gosick <!-- 8425 | 11/27906l.jpg -->
 2. Toradora! <!-- 4224 | 13/22128l.jpg -->
 3. Ginga Tetsudou 999 <!-- 1491 | 7/27801l.jpg -->
-4. JoJo's Bizarre Adventure <!-- 14719 | 3/40409.jpg -->
+4. JoJo's Bizarre Adventure <!-- 14719 | 3/40409l.jpg -->
 5. Steins;Gate <!-- 9253 | 5/73199l.jpg -->
 6. ef: A Tale of Memories. <!-- 2924 | 11/50411l.jpg -->
 7. Clannad <!-- 2167 | 1804/95033l.jpg -->
 8. Detroit Metal City <!-- 3702 | 3/9853l.jpg -->
 9. Tengen Toppa Gurren Lagann <!-- 2001 | 4/5123l.jpg -->
 10. Hellsing Ultimate <!-- 777 | 6/7333l.jpg -->
- 
-## Personal Space Opera's Top 10 Franchises
- 
+
+## Space Opera Top 10
+
 1. Ginga Tetsudou 999 <!-- 1491 | 7/27801l.jpg -->
 2. Ginga Eiyuu Densetsu <!-- 820 | 13/13225l.jpg -->
 3. Interstella 5555 <!-- 731 | 5/82786l.jpg -->
-4. Uchuu Senkan Yamato <!-- 1650 | /1908/94946l.jpg --> 
+4. Uchuu Senkan Yamato <!-- 1650 | /1908/94946l.jpg -->
 5. Uchuu Kaizoku Captain Harlock  <!-- 1000 | 1362/90305l.jpg -->
 6. Ginga Tetsudou Monogatari <!-- 2717 | 3/77281l.jpg -->
 7. Sidonia no Kishi <!-- 19775 | 12/53257l.jpg -->
 8. Heroic Age <!-- 2002 | 12/50435l.jpg -->
 9. Space Dandy <!-- 20057 | 4/56611l.jpg -->
 10. Mouretsu Pirates <!-- 8917 | 13/36247l.jpg -->
- 
-___
- 
+
+---
+
 ## Action
- 
+
 - Akame ga Kill! <!-- 22199 | 1429/95946l.jpg -->
 - Ao no Exorcist <!-- 9919 | 10/75195l.jpg -->
 - Cowboy Bebop <!-- 1 | 4/19644l.jpg -->
@@ -41,10 +42,10 @@ ___
 - Deadman Wonderland <!-- 6880 | 9/75299l.jpg -->
 - Double Decker! Doug & Kirill <!-- 37496 | 1299/95783l.jpg -->
 - Fullmetal Alchemist: Brotherhood <!-- 5114 | 1223/96541l.jpg -->
-- Hellsing Ultimate <!-- 777 | 6/7333.jpg -->
+- Hellsing Ultimate <!-- 777 | 6/7333l.jpg -->
 - Inuyashiki <!-- 34542 | 7/88471l.jpg -->
-- JoJo's Bizarre Adventure <!-- 14719 | 3/40409.jpg -->
-- Karas <!-- 389 | 2/18521.jpg -->
+- JoJo's Bizarre Adventure <!-- 14719 | 3/40409l.jpg -->
+- Karas <!-- 389 | 2/18521l.jpg -->
 - Kiseijuu: Sei no Kakuritsu <!-- 22535 | 3/73178l.jpg -->
 - Koutetsujou no Kabaneri <!-- 28623 | 12/79164l.jpg -->
 - Mirai Nikki <!-- 10620 | 13/33465l.jpg -->
@@ -65,7 +66,7 @@ ___
 - Youjo Senki <!-- 32615 | 5/82890l.jpg -->
 
 ## Comedy
- 
+
 - Angel Densetsu <!-- 5251 | 4/27104l.jpg -->
 - Arakawa Under the Bridge <!-- 7647 | 2/59197l.jpg -->
 - Asobi Asobase <!-- 37171 | 1139/95077l.jpg -->
@@ -100,9 +101,9 @@ ___
 - Thermae Romae <!-- 12321 | 5/35635l.jpg -->
 - Yondemasu yo, Azazel-san. <!-- 7762 | 2/24619l.jpg -->
 - Yuru Yuri Nachuyachumi! <!-- 23225 | 2/73281l.jpg -->
- 
+
 ## Romance & Drama
- 
+
 - Air <!-- 101 | 8/22059l.jpg -->
 - Akagami no Shirayuki-hime <!-- 30123 | 10/75764l.jpg -->
 - Angel Beats! <!-- 6547 | 10/22061l.jpg -->
@@ -139,9 +140,9 @@ ___
 - Tsuki ga Kirei <!-- 34822 | 2/85592l.jpg -->
 - Violet Evergarden <!-- 33352 | 1795/95088l.jpg -->
 - Wotaku ni Koi wa Muzukashii <!-- 35968 | 1864/93518l.jpg -->
- 
+
 ## Slice of Life
- 
+
 - Acchi Kocchi <!-- 12291 | 5/46489l.jpg -->
 - Amanchu! <!-- 31771 | 6/80810l.jpg -->
 - Ano Natsu de Matteru <!-- 11433 | 12/59405l.jpg -->
@@ -170,16 +171,16 @@ ___
 - Non Non Biyori <!-- 17549 | 2/51581l.jpg -->
 - Shoujo Shuumatsu Ryokou <!-- 35838 | 12/88321l.jpg -->
 - Udon no Kuni no Kiniro Kemari <!-- 32673 | 10/82343l.jpg -->
- 
+
 ## Food
- 
+
 - Isekai Izakaya: Koto Aitheria no Izakaya Nobu <!-- 34420 | 1303/90909l.jpg -->
 - Isekai Shokudou <!-- 34012 | 3/86666l.jpg -->
 - Shokugeki no Souma <!-- 28171 | 3/72943l.jpg -->
 - Yakitate!! Japan <!-- 28 | 3/76432l.jpg -->
- 
+
 ## Mysterious, Supernatural, Fantasy
- 
+
 - B: The Beginning <!-- 32827 | 1564/90469l.jpg -->
 - Big Order (TV) <!-- 31904 | 3/79913l.jpg -->
 - Chikyuu Shoujo Arjuna <!-- 812 | 4/57253l.jpg -->
@@ -212,9 +213,9 @@ ___
 - Tasogare Otome x Amnesia <!-- 12445 | 12/64435l.jpg -->
 - Tensei shitara Slime Datta Ken <!-- 37430 | 1694/93337l.jpg -->
 - Zero no Tsukaima <!-- 1195 | 8/20680l.jpg -->
- 
+
 ## Horror & Thriller
- 
+
 - Another <!-- 11111 | 4/75509l.jpg -->
 - Death Note <!-- 1535 | 9/9453l.jpg -->
 - Gantz <!-- 384 | 13/5998l.jpg -->
@@ -227,9 +228,9 @@ ___
 - Shiki <!-- 7724 | 8/21343l.jpg -->
 - Umineko no Naku Koro ni <!-- 4896 | 10/17709l.jpg -->
 - Zankyou no Terror <!-- 23283 | 4/64447l.jpg -->
- 
+
 ## Mecha, Space, Sci-Fi
- 
+
 - A.I.C.O.: Incarnation <!-- 36039 | 1921/91085l.jpg -->
 - Bokurano <!-- 1690 | 1690/97048l.jpg -->
 - Code Geass: Hangyaku no Lelouch <!-- 1575 | 5/50331l.jpg -->
@@ -252,9 +253,9 @@ ___
 - Top wo Nerae 2! Diebuster <!-- 1002 | 7/50475l.jpg -->
 - Uchuu Kaizoku Captain Herlock <!-- 1000 | 1362/90305l.jpg -->
 - Uchuu Senkan Yamato 2199 <!-- 12029 | 2/36607l.jpg -->
- 
+
 ## Psychological
- 
+
 - Bokurano <!-- 1690 | 1690/97048l.jpg -->
 - Dennou Coil <!-- 2164 | 5/12844l.jpg -->
 - Elfen Lied <!-- 226 | 10/6883l.jpg -->
@@ -268,9 +269,9 @@ ___
 - Umineko no Naku Koro ni <!-- 4896 | 10/17709l.jpg -->
 - Zankyou no Terror <!-- 23283 | 4/64447l.jpg -->
 - Zetsuen no Tempest <!-- 14075 | 7/42453l.jpg -->
- 
+
 ## Music
- 
+
 - AKB0048 <!-- 12149 | 3/74157l.jpg -->
 - Detroit Metal City <!-- 3702 | 3/9853l.jpg -->
 - K-On! <!-- 5680 | 10/76120l.jpg -->
@@ -278,9 +279,9 @@ ___
 - Nodame Cantabile <!-- 1698 | 9/11986l.jpg -->
 - Sakamichi no Apollon <!-- 12531 | 12/79781l.jpg -->
 - Shigatsu wa Kimi no Uso <!-- 23273 | 3/67177l.jpg -->
- 
+
 ## Sports
- 
+
 - 3-gatsu no Lion <!-- 31646 | 6/82898l.jpg -->
 - Chihayafuru <!-- 10800 | 3/35749l.jpg -->
 - F-Zero: Falcon Densetsu <!-- 3101 | 1569/95419l.jpg -->
@@ -291,9 +292,9 @@ ___
 - Mudazumo Naki Kaikaku: The Legend of Koizumi <!-- 6946 | 2/35475l.jpg -->
 - Ro-Kyu-Bu! <!-- 10572 | 11/32643l.jpg -->
 - Saki <!-- 5671 | 12/73933l.jpg -->
- 
+
 ## Harem & Ecchi
- 
+
 - A Kite <!-- 320 | 5/85959l.jpg -->
 - Dakara Boku wa, H ga Dekinai. <!-- 12549 | 4/75102l.jpg -->
 - Futari Ecchi <!-- 382 | 10/20029l.jpg -->
@@ -310,11 +311,9 @@ ___
 - Seikon no Qwaser <!-- 6500 | 9/67771l.jpg -->
 - Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai <!-- 29786 | 6/75106l.jpg -->
 - To LOVE-Ru <!-- 3455 | 13/22544l.jpg -->
- 
-___
- 
+
 ## Movies & OVA's
- 
+
 - Sakasama no Patema <!-- 12477 | 12/52415l.jpg -->
 - Kimi no Na wa. <!-- 32281 | 5/87048l.jpg -->
 - Hoshi wo Ou Kodomo <!-- 9760 | 4/29684l.jpg -->
@@ -346,9 +345,9 @@ ___
 - Kotonoha no Niwa <!-- 16782 | 8/79676l.jpg -->
 - Kumo no Mukou, Yakusoku no Basho <!-- 433 | 1/433l.jpg -->
 - Colorful (Movie) <!-- 8142 | 4/29497l.jpg -->
- 
+
 ## Ghibli Movies
- 
+
 - The Wind Rises "Kaze Tachinu" <!-- 16662 | 8/52353l.jpg -->
 - Tales from Earthsea "Gedo Senki" <!-- 1829 | 5/73443l.jpg -->
 - Spirited Away "Sen to Chihiro no Kamikakushi" <!-- 199 | 6/79597l.jpg -->
