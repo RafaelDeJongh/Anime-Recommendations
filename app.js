@@ -21,7 +21,7 @@ for (let i = 0; i < data.lists.length; i++) {
 
   // Add top-10 class if necessary.
   if (list.top_10) {
-    list_slug = list_slug + ' top-10'
+    list_slug = list_slug + ' top-list'
   }
 
   for (let i = 0; i < list.list_items.length; i++) {

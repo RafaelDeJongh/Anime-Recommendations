@@ -66,7 +66,7 @@ function filter() {
   // Exclude anime in top 10 lists from manual filtering,
   // unless a top 10 category is already active.
   if (term && !category.includes('top-10')) {
-    let top_10_anime = document.querySelectorAll('.top-10')
+    let top_10_anime = document.querySelectorAll('.top-list')
     for (var i = 0; i < top_10_anime.length; i++) {
       top_10_anime[i].classList.add('hidden')
     }
