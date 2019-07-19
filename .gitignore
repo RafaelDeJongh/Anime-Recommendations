@@ -91,5 +91,8 @@ ftp-config.json
 # Compiled app
 public/
 
+# Cache folders
+cache/
+
 # Covers folders
 covers/
