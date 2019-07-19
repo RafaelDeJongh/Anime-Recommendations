@@ -18,7 +18,7 @@ Last Revision: 10/04/2019)
 9. Tengen Toppa Gurren Lagann <!-- 2001 | 4/5123l.jpg -->
 10. Hellsing Ultimate <!-- 777 | 6/7333l.jpg -->
 
-## Space Opera Top 10
+## Top 10 Space Operas
 
 1. Ginga Tetsudou 999 <!-- 1491 | 7/27801l.jpg -->
 2. Ginga Eiyuu Densetsu <!-- 820 | 13/13225l.jpg -->

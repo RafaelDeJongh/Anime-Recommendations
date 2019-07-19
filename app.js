@@ -2,7 +2,6 @@ const fs = require('fs')
 
 const animeJSON    = require('./lib/generate-json')
 const getMalImages = require('./lib/get-mal-images')
-// const anilist      = require('./lib/anilist')
 const utils        = require('./lib/utils')
 
 animeJSON.generateJSON()
