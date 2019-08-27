@@ -1,7 +1,7 @@
 [comment]: # (Anime recommendation list created by Rafaël De Jongh
 MAL: https://myanimelist.net/profile/RafaelDeJongh
 Portfolio: https://www.rafaeldejongh.com
-Last Revision: 10/04/2019)
+Last Revision: 28/08/2019)
 
 # Rafaël De Jongh's Anime Recommendations
 
@@ -37,6 +37,7 @@ ___
 
 - Akame ga Kill! <!-- 22199 | 1429/95946l.jpg -->
 - Ao no Exorcist <!-- 9919 | 10/75195l.jpg -->
+- Baki <!-- 34443 | 1979/93135l.jpg -->
 - Cowboy Bebop <!-- 1 | 4/19644l.jpg -->
 - Darker than Black: Kuro no Keiyakusha <!-- 2025 | 5/19570l.jpg -->
 - Deadman Wonderland <!-- 6880 | 9/75299l.jpg -->
@@ -235,6 +236,7 @@ ___
 
 - A.I.C.O.: Incarnation <!-- 36039 | 1921/91085l.jpg -->
 - Bokurano <!-- 1690 | 1690/97048l.jpg -->
+- Cannon Busters <!-- 40256 | 1452/102628l.jpg -->
 - Code Geass: Hangyaku no Lelouch <!-- 1575 | 5/50331l.jpg -->
 - FLCL <!-- 227 | 7/77356l.jpg -->
 - Full Metal Panic! <!-- 71 | 2/75259l.jpg -->
