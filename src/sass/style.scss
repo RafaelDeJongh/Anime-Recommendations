@@ -134,15 +134,15 @@ main{
 	height:100%;
 	transform:scale(1.03);
 	z-index:2;
-	transition:all .25s ease-in-out;
+	transition:all .3s ease;
 }
-.anime:hover img{
+/*.anime:hover img{
 	transform:rotateY(90deg);
 	transition:all 125ms ease-in-out;
-}
+}*/
 
 .anime figcaption{
-	background:rgba(32,32,32,0.9);
+	background:rgba(32,32,32,.9);
 	bottom:0;
 	font-family:Overpass,sans-serif;
 	font-weight:700;
