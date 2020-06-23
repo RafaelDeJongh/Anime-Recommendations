@@ -1,7 +1,7 @@
 [comment]: # (Anime recommendation list created by Rafaël De Jongh
 MAL: https://myanimelist.net/profile/RafaelDeJongh
 Portfolio: https://www.rafaeldejongh.com
-Last Revision: 28/08/2019)
+Last Revision: 23/06/2020)
 
 # Rafaël De Jongh's Anime Recommendations
 
@@ -42,7 +42,10 @@ ___
 - Darker than Black: Kuro no Keiyakusha <!-- 2025 | 5/19570l.jpg -->
 - Deadman Wonderland <!-- 6880 | 9/75299l.jpg -->
 - Double Decker! Doug & Kirill <!-- 37496 | 1299/95783l.jpg -->
+- Dororo <!-- 37520 | 1879/100467l.jpg -->
 - Fullmetal Alchemist: Brotherhood <!-- 5114 | 1223/96541l.jpg -->
+- Goblin Slayer <!-- 37349 | 1719/95621l.jpg -->
+- Golden Kamuy <!-- 36028 | 1145/90880l.jpg -->
 - Hellsing Ultimate <!-- 777 | 6/7333l.jpg -->
 - Inuyashiki <!-- 34542 | 7/88471l.jpg -->
 - JoJo's Bizarre Adventure <!-- 14719 | 3/40409l.jpg -->
@@ -52,6 +55,7 @@ ___
 - Mirai Nikki <!-- 10620 | 13/33465l.jpg -->
 - Mob Psycho 100 <!-- 32182 | 8/80356l.jpg -->
 - Nanatsu no Taizai <!-- 23755 | 8/65409l.jpg -->
+- No Guns Life <!-- 39539 | 1531/102113l.jpg -->
 - One Punch Man <!-- 30276 | 12/76049l.jpg -->
 - Psycho-Pass <!-- 13601 | 5/43399l.jpg -->
 - Rainbow: Nisha Rokubou no Shichinin <!-- 6114 | 9/72697l.jpg -->
@@ -64,6 +68,7 @@ ___
 - Toaru Kagaku no Railgun <!-- 6213 | 8/53581l.jpg -->
 - Toaru Majutsu no Index <!-- 4654 | 2/75533l.jpg -->
 - Trigun <!-- 6 | 7/20310l.jpg -->
+- Vinland Saga <!-- 37521 | 1500/103005l.jpg -->
 - Youjo Senki <!-- 32615 | 5/82890l.jpg -->
 
 ## Comedy
@@ -74,10 +79,12 @@ ___
 - Azumanga Daioh <!-- 66 | 1/66l.jpg -->
 - Back Street Girls: Gokudolls <!-- 36873 | 1484/93140l.jpg -->
 - Baka to Test to Shoukanjuu <!-- 6347 | 3/50389l.jpg -->
+- Beelzebub-jou no Okinimesu mama. <!-- 37716 | 1827/95738l.jpg -->
 - Bokusatsu Tenshi Dokuro-chan <!-- 357 | 10/13210l.jpg -->
 - Detroit Metal City <!-- 3702 | 3/9853l.jpg -->
 - Great Teacher Onizuka <!-- 245 | 13/11460l.jpg -->
 - Gugure! Kokkuri-san <!-- 23251 | 6/65665l.jpg -->
+- Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! <!-- 31630 | 5/79448l.jpg -->
 - Hayate no Gotoku! <!-- 2026 | 7/73932l.jpg -->
 - Hinamatsuri <!-- 36296 | 1580/93526l.jpg -->
 - Ike! Ina-chuu Takkyuubu <!-- 914 | 10/25459l.jpg -->
@@ -85,6 +92,7 @@ ___
 - Katte ni Kaizou Specials <!-- 12991 | 11/36477l.jpg -->
 - Kobayashi-san Chi no Maid Dragon <!-- 33206 | 5/85434l.jpg -->
 - Kore wa Zombie Desu ka? <!-- 8841 | 13/75521l.jpg -->
+- Kyou no Asuka Show <!-- 15005 | 4/77066l.jpg -->
 - Level E <!-- 9834 | 4/29668l.jpg -->
 - Masuda Kousuke Gekijou Gag Manga Biyori + <!-- 7761 | 13/18805l.jpg -->
 - Mudazumo Naki Kaikaku: The Legend of Koizumi <!-- 6946 | 2/35475l.jpg -->
@@ -131,6 +139,7 @@ ___
 - Nodame Cantabile <!-- 1698 | 9/11986l.jpg -->
 - Orange <!-- 32729 | 4/80110l.jpg -->
 - Ore Monogatari!! <!-- 28297 | 13/69455l.jpg -->
+- Ore wo Suki nano wa Omae dake ka yo <!-- 38483 | 1348/102797l.jpg -->
 - Paradise Kiss <!-- 322 | 7/80636l.jpg -->
 - Saishuu Heiki Kanojo <!-- 529 | 1/529l.jpg -->
 - Sakurasou no Pet na Kanojo <!-- 13759 | 4/43643l.jpg -->
@@ -146,6 +155,7 @@ ___
 ## Slice of Life
 
 - Acchi Kocchi <!-- 12291 | 5/46489l.jpg -->
+- Arte <!-- 40128 | 1284/106945.jpg -->
 - Amanchu! <!-- 31771 | 6/80810l.jpg -->
 - Ano Natsu de Matteru <!-- 11433 | 12/59405l.jpg -->
 - Aria The Animation <!-- 477 | 2/77620l.jpg -->
@@ -167,6 +177,7 @@ ___
 - Kobato. <!-- 5678 | 8/79838l.jpg -->
 - Kotoura-san <!-- 15379 | 10/75585l.jpg -->
 - Kuragehime <!-- 8129 | 3/24865l.jpg -->
+- Kakushigoto <!-- 40716 | 1476/106372l.jpg -->
 - Lucky☆Star <!-- 1887 | 13/15010l.jpg -->
 - Mawaru Penguindrum <!-- 10721 | 5/30238l.jpg -->
 - Mikakunin de Shinkoukei <!-- 20541 | 10/75249l.jpg -->
@@ -174,6 +185,12 @@ ___
 - Non Non Biyori <!-- 17549 | 2/51581l.jpg -->
 - Shoujo Shuumatsu Ryokou <!-- 35838 | 12/88321l.jpg -->
 - Udon no Kuni no Kiniro Kemari <!-- 32673 | 10/82343l.jpg -->
+
+## Isekai/Augmented & Virtual Reality
+- Dr. Stone <!-- 38691 | 1613/102576l.jpg -->
+- Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen <!-- 40815 | 1464/107998l.jpg -->
+- Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. <!-- 38790 | 1438/105344l.jpg -->
+- Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? <!-- 38573 | 1225/102250l.jpg -->
 
 ## Food
 
@@ -193,13 +210,19 @@ ___
 - Gankutsuou <!-- 239 | 10/2235l.jpg -->
 - Gate: Jieitai Kanochi nite, Kaku Tatakaeri <!-- 28907 | 8/76222l.jpg -->
 - Gosick <!-- 8425 | 11/27906l.jpg -->
+- Id:Invaded <!-- 40046 | 1889/105337l.jpg -->
+- Jibaku Shounen Hanako-kun <!-- 39534 | 1700/104788l.jpg -->
 - Kamisama no Memochou <!-- 10568 | 13/75202l.jpg -->
+- Kimetsu no Yaiba <!-- 38000 | 1286/99889l.jpg -->
 - Kokoro Connect <!-- 11887 | 2/39665l.jpg -->
 - Kujira no Kora wa Sajou ni Utau <!-- 34712 | 4/86661l.jpg -->
 - Kuroshitsuji <!-- 4898 | 5/27013l.jpg -->
+- Kuutei Dragons <!-- 39531 | 1019/103606l.jpg -->
 - Kyoukai no Kanata <!-- 18153 | 3/85468l.jpg -->
 - Little Witch Academia (TV) <!-- 33489 | 13/83934l.jpg -->
+- Machikado Mazoku <!-- 39071 | 1395/101109l.jpg -->
 - Made in Abyss <!-- 34599 | 1922/91900l.jpg -->
+- Mairimashita! Iruma-kun <!-- 39196 | 1009/103187l.jpg -->
 - Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? <!-- 15315 | 12/43369l.jpg -->
 - Monogatari Series: Second Season <!-- 17074 | 3/52133l.jpg -->
 - Moyashimon <!-- 3001 | 5/37533l.jpg -->
@@ -210,6 +233,8 @@ ___
 - Rozen Maiden <!-- 64 | 2/15728l.jpg -->
 - Ryuu no Haisha <!-- 34549 | 13/83336l.jpg -->
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai <!-- 37450 | 1301/93586l.jpg -->
+- Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru <!-- 38659 | 1715/103419l.jpg -->
+- Somali to Mori no Kamisama <!-- 39575 | 1938/102796l.jpg -->
 - Steins;Gate <!-- 9253 | 5/73199l.jpg -->
 - Subete ga F ni Naru: The Perfect Insider <!-- 28621 | 9/76071l.jpg -->
 - Suzumiya Haruhi no Yuuutsu <!-- 849 | 5/75901l.jpg -->
@@ -230,11 +255,13 @@ ___
 - Psycho-Pass 3 <!-- 39491 | 1165/99664l.jpg -->
 - Shiki <!-- 7724 | 8/21343l.jpg -->
 - Umineko no Naku Koro ni <!-- 4896 | 10/17709l.jpg -->
+- Yakusoku no Neverland <!-- 37779 | 1125/96929l.jpg -->
 - Zankyou no Terror <!-- 23283 | 4/64447l.jpg -->
 
 ## Mecha, Space, Sci-Fi
 
 - A.I.C.O.: Incarnation <!-- 36039 | 1921/91085l.jpg -->
+- Altered Carbon: Resleeved <!-- 40613 | 1879/106531l.jpg -->
 - Bokurano <!-- 1690 | 1690/97048l.jpg -->
 - Cannon Busters <!-- 40256 | 1452/102628l.jpg -->
 - Code Geass: Hangyaku no Lelouch <!-- 1575 | 5/50331l.jpg -->
@@ -242,7 +269,9 @@ ___
 - Full Metal Panic! <!-- 71 | 2/75259l.jpg -->
 - Ginga Eiyuu Densetsu <!-- 820 | 13/13225l.jpg -->
 - Ginga Tetsudou 999 <!-- 1491 | 7/27801l.jpg -->
+- Hero Mask <!-- 40154 | 1960/102191l.jpg -->
 - Heroic Age <!-- 2002 | 12/50435l.jpg -->
+- Kanata no Astra <!-- 39198 | 1784/106428l.jpg -->
 - Kenzen Robo Daimidaler <!-- 21809 | 2/61435l.jpg -->
 - Koukyoushihen Eureka Seven <!-- 237 | 12/34443l.jpg -->
 - Mobile Suit Gundam <!-- 80 | 5/88524l.jpg -->
@@ -305,6 +334,7 @@ ___
 - Gokukoku no Brynhildr <!-- 21431 | 5/61433l.jpg -->
 - Hagure Yuusha no Aesthetica: Hajirai Ippai <!-- 15729 | 9/43079l.jpg -->
 - High School DxD <!-- 11617 | 2/32527l.jpg -->
+- Ishuzoku Reviewers <!-- 40010 | 1870/105970l.jpg -->
 - Kami nomi zo Shiru Sekai <!-- 8525 | 2/43361l.jpg -->
 - Ladies versus Butlers! <!-- 7148 | 7/75252l.jpg -->
 - Manyuu Hikenchou <!-- 10465 | 9/75184l.jpg -->
@@ -328,14 +358,20 @@ ___
 - Toki wo Kakeru Shoujo <!-- 2236 | 1/2432l.jpg -->
 - Kara no Kyoukai <!-- 2593 | 12/21741l.jpg -->
 - Sayonara no Asa ni Yakusoku no Hana wo Kazarou <!-- 35851 | 11/89556l.jpg -->
+- Tenki no Ko (Weathering With You) <!-- 38826 | 1880/101146l.jpg -->
+- Penguin Highway <!-- 37407 | 1320/93443l.jpg -->
 - Giniro no Kami no Agito <!-- 1140 | 9/83824l.jpg -->
 - Shisha no Teikoku <!-- 28625 | 4/75468l.jpg -->
 - Kono Sekai no Katasumi ni <!-- 15227 | 2/87704l.jpg -->
 - Koe no Katachi <!-- 28851 | 1122/96435l.jpg -->
+- Ni no Kuni <!-- 39235 | 1203/101637l.jpg -->
 - Paprika <!-- 1943 | 1929/93629l.jpg -->
+- Kaijuu no Kodomo <!-- 37981 | 1103/99778l.jpg -->
 - Kimi no Suizou wo Tabetai <!-- 36098 | 1768/93291l.jpg -->
 - Mary to Majo no Hana <!-- 34541 | 1828/90335l.jpg -->
 - Majokko Shimai no Yoyo to Nene <!-- 15813 | 1598/94444l.jpg -->
+- Nakitai Watashi wa Neko wo Kaburu <!-- 41168 | 1045/106389l.jpg -->
+- Hello World <!-- 38816 | 1395/102089l.jpg -->
 - Summer Wars <!-- 5681 | 10/15796l.jpg -->
 - Eve no Jikan<!-- 7465 | 9/27711l.jpg -->
 - Tokyo Godfathers <!-- 759 | 1144/93627l.jpg -->
@@ -343,9 +379,11 @@ ___
 - Nerawareta Gakuen <!-- 14293 | 2/43807l.jpg -->
 - Ghost in the Shell <!-- 43 | 10/82594l.jpg -->
 - Aura: Maryuuin Kouga Saigo no Tatakai <!-- 14669 | 12/67107l.jpg -->
+- Bokura no Nanokakan Sensou <!-- 37828 | 1887/103944l.jpg -->
 - Uchuu Show e Youkoso <!-- 8115 | 8/20085l.jpg -->
 - Brave Story <!-- 1681 | 1333/97262l.jpg -->
 - Otaku no Video <!-- 785 | 11/3817l.jpg -->
+- Promare <!-- 35848 | 1008/101845l.jpg -->
 - Saint☆Oniisan <!-- 15775 | 3/53249l.jpg -->
 - Jin-Roh: The Wolf Brigade <!-- 570 | 5/88943l.jpg -->
 - Kotonoha no Niwa <!-- 16782 | 8/79676l.jpg -->
