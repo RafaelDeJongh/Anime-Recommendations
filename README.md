@@ -69,7 +69,6 @@ ___
 - Toaru Majutsu no Index <!-- 4654 | 2/75533l.jpg -->
 - Trigun <!-- 6 | 7/20310l.jpg -->
 - Vinland Saga <!-- 37521 | 1500/103005l.jpg -->
-- Youjo Senki <!-- 32615 | 5/82890l.jpg -->
 
 ## Comedy
 
@@ -99,7 +98,6 @@ ___
 - Namiuchigiwa no Muromi-san <!-- 16910 | 2/74998l.jpg -->
 - Nichijou <!-- 10165 | 3/75617l.jpg -->
 - Nurse Witch Komugi-chan Magikarte <!-- 615 | 5/77618l.jpg -->
-- Outbreak Company <!-- 19369 | 7/54343l.jpg -->
 - Paniponi Dash! <!-- 490 | 2/68901l.jpg -->
 - Panty & Stocking with Garterbelt <!-- 8795 | 12/73643l.jpg -->
 - Plastic Neesan <!-- 10711 | 13/76583l.jpg -->
@@ -107,7 +105,6 @@ ___
 - Sayonara Zetsubou Sensei <!-- 2605 | 5/6559l.jpg -->
 - Senyuu. <!-- 15751 | 6/44858l.jpg -->
 - Space☆Dandy <!-- 20057 | 4/56611l.jpg -->
-- Thermae Romae <!-- 12321 | 5/35635l.jpg -->
 - Yondemasu yo, Azazel-san. <!-- 7762 | 2/24619l.jpg -->
 - Yuru Yuri Nachuyachumi! <!-- 23225 | 2/73281l.jpg -->
 
@@ -186,11 +183,16 @@ ___
 - Shoujo Shuumatsu Ryokou <!-- 35838 | 12/88321l.jpg -->
 - Udon no Kuni no Kiniro Kemari <!-- 32673 | 10/82343l.jpg -->
 
-## Isekai/Augmented & Virtual Reality
+## Isekai, Virtual Reality
 - Dr. Stone <!-- 38691 | 1613/102576l.jpg -->
 - Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen <!-- 40815 | 1464/107998l.jpg -->
 - Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. <!-- 38790 | 1438/105344l.jpg -->
+- Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? <!-- 15315 | 12/43369l.jpg -->
+- Outbreak Company <!-- 19369 | 7/54343l.jpg -->
+- Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow <!-- 36286 | 1081/95707l.jpg -->
+- Thermae Romae <!-- 12321 | 5/35635l.jpg -->
 - Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? <!-- 38573 | 1225/102250l.jpg -->
+- Youjo Senki <!-- 32615 | 5/82890l.jpg -->
 
 ## Food
 
@@ -223,13 +225,11 @@ ___
 - Machikado Mazoku <!-- 39071 | 1395/101109l.jpg -->
 - Made in Abyss <!-- 34599 | 1922/91900l.jpg -->
 - Mairimashita! Iruma-kun <!-- 39196 | 1009/103187l.jpg -->
-- Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? <!-- 15315 | 12/43369l.jpg -->
 - Monogatari Series: Second Season <!-- 17074 | 3/52133l.jpg -->
 - Moyashimon <!-- 3001 | 5/37533l.jpg -->
 - Mushishi <!-- 457 | 2/73862l.jpg -->
 - Natsume Yuujinchou <!-- 4081 | 7/28859l.jpg -->
 - Princess Principal <!-- 35240 | 7/86768l.jpg -->
-- Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow <!-- 36286 | 1081/95707l.jpg -->
 - Rozen Maiden <!-- 64 | 2/15728l.jpg -->
 - Ryuu no Haisha <!-- 34549 | 13/83336l.jpg -->
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai <!-- 37450 | 1301/93586l.jpg -->
