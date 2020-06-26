@@ -220,6 +220,7 @@ ___
 - Kujira no Kora wa Sajou ni Utau <!-- 34712 | 4/86661l.jpg -->
 - Kuroshitsuji <!-- 4898 | 5/27013l.jpg -->
 - Kuutei Dragons <!-- 39531 | 1019/103606l.jpg -->
+- Kyokou Suiri (In/Spectre) <!-- 39017 | 1517/104785l.jpg -->
 - Kyoukai no Kanata <!-- 18153 | 3/85468l.jpg -->
 - Little Witch Academia (TV) <!-- 33489 | 13/83934l.jpg -->
 - Machikado Mazoku <!-- 39071 | 1395/101109l.jpg -->
