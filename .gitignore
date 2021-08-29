@@ -89,10 +89,10 @@ Thumbs.db
 ftp-config.json
 
 # Compiled app
-public/
+# public/
 
 # Cache folders
-cache/
+# cache/
 
 # Covers folders
-covers/
+# covers/
