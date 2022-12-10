@@ -29,7 +29,7 @@
     "autoprefixer": "^9.8.2",
     "babel-register": "^6.26.0",
     "browser-sync": "^2.26.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-babel": "^8.0.0",
